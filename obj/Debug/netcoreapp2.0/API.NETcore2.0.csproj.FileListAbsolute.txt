@@ -1,0 +1,9 @@
+C:\Users\Notebook\Desktop\Projetos\CursoAsp.NetCore\MinhaPrimeiraWebAPI\API.NETcore2.0\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\Notebook\Desktop\Projetos\CursoAsp.NetCore\MinhaPrimeiraWebAPI\API.NETcore2.0\bin\Debug\netcoreapp2.0\API.NETcore2.0.deps.json
+C:\Users\Notebook\Desktop\Projetos\CursoAsp.NetCore\MinhaPrimeiraWebAPI\API.NETcore2.0\bin\Debug\netcoreapp2.0\API.NETcore2.0.runtimeconfig.json
+C:\Users\Notebook\Desktop\Projetos\CursoAsp.NetCore\MinhaPrimeiraWebAPI\API.NETcore2.0\bin\Debug\netcoreapp2.0\API.NETcore2.0.runtimeconfig.dev.json
+C:\Users\Notebook\Desktop\Projetos\CursoAsp.NetCore\MinhaPrimeiraWebAPI\API.NETcore2.0\bin\Debug\netcoreapp2.0\API.NETcore2.0.dll
+C:\Users\Notebook\Desktop\Projetos\CursoAsp.NetCore\MinhaPrimeiraWebAPI\API.NETcore2.0\obj\Debug\netcoreapp2.0\API.NETcore2.0.csprojAssemblyReference.cache
+C:\Users\Notebook\Desktop\Projetos\CursoAsp.NetCore\MinhaPrimeiraWebAPI\API.NETcore2.0\obj\Debug\netcoreapp2.0\API.NETcore2.0.AssemblyInfoInputs.cache
+C:\Users\Notebook\Desktop\Projetos\CursoAsp.NetCore\MinhaPrimeiraWebAPI\API.NETcore2.0\obj\Debug\netcoreapp2.0\API.NETcore2.0.AssemblyInfo.cs
+C:\Users\Notebook\Desktop\Projetos\CursoAsp.NetCore\MinhaPrimeiraWebAPI\API.NETcore2.0\obj\Debug\netcoreapp2.0\API.NETcore2.0.genruntimeconfig.cache
